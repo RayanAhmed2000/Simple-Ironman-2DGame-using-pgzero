@@ -10,4 +10,8 @@ In this repo I have created a very simple (less than 34 lines of actual code) Ir
 pip install pgzero
 ```
 
-for more details [visit](https://pygame-zero.readthedocs.io/en/stable/) pygame pgzero official documentation page
+for more details [visit](https://pygame-zero.readthedocs.io/en/stable/) pygame pgzero official documentation page <br>
+NOTE
+- keep backgroung music in "music" folder
+- keep sound effects in "sounds" folder
+- keep images in "images" folder

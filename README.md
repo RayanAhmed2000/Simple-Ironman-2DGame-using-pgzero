@@ -9,3 +9,5 @@ In this repo I have created a very simple (less than 34 lines of actual code) Ir
 ```
 pip install pgzero
 ```
+
+for more details [visit](https://pygame-zero.readthedocs.io/en/stable/) pygame pgzero official documentation page
